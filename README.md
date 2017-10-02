@@ -1,4 +1,4 @@
 # SoftUni
 Homework
-Respository made for exercises.
-Edited again in master branch..
+This is my firts homework
+
